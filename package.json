@@ -1,0 +1,25 @@
+{
+  "name": "kodilla-7.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezoPL/kodilla-7.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezoPL/kodilla-7.4/issues"
+  },
+  "homepage": "https://github.com/RezoPL/kodilla-7.4#readme",
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.18.13",
+    "nu-html-checker": "^0.1.0"
+  }
+}
