@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run test:js",
-    "test:js": "jshint --show-non-errors js/*.js"
+    "test:js": "glob-run jshint --show-non-errors js/*.js"
   },
   "repository": {
     "type": "git",
